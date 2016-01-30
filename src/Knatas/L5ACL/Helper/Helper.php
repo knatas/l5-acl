@@ -1,4 +1,4 @@
-<?php namespace Kodeine\Acl\Helper;
+<?php namespace Knatas\L5ACL\Helper;
 
 use Illuminate\Support\Collection;
 

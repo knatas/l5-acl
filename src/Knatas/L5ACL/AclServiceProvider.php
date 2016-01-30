@@ -1,4 +1,4 @@
-<?php namespace Kodeine\Acl;
+<?php namespace Knatas\L5ACL;
 
 use Blade;
 use Illuminate\Support\ServiceProvider;

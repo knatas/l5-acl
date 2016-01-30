@@ -1,7 +1,7 @@
-<?php namespace Kodeine\Acl\Models\Eloquent;
+<?php namespace Knatas\L5ACL\Models\Eloquent;
 
 use Illuminate\Database\Eloquent\Model;
-use Kodeine\Acl\Traits\HasPermission;
+use Knatas\L5ACL\Traits\HasPermission;
 
 class Role extends Model
 {

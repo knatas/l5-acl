@@ -1,4 +1,4 @@
-<?php namespace Kodeine\Acl\Middleware;
+<?php namespace Knatas\L5ACL\Middleware;
 
 use Closure;
 

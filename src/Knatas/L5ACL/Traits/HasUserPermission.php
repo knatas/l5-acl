@@ -1,4 +1,4 @@
-<?php namespace Kodeine\Acl\Traits;
+<?php namespace Knatas\L5ACL\Traits;
 
 use Illuminate\Support\Collection;
 
